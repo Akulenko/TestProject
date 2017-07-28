@@ -40,14 +40,7 @@ public class WhenNavigatingFromPDP {
         productPage.openPageByUrl(urlCategory);
         //And
         String selectedAttributeValueInLeftNavMenu = PLP.clickOnFirstAttributeValueForGroupInTheLeftNavMenu("Style");
-        //And
-        navigation.clickOnTheCurrentPageInTopPagination(pageNumber);
-        //Then
-        productPage.clickOnProduct(false, false);
-        //When
-        productPage.clickBackToProductResultsLinkOnThePDP();
-        //Then
-        PLP.shouldBeAbleToRedirectedBackToTheSameProductResultsPage(pageNumber, selectedAttributeValueInLeftNavMenu);
+
 
     }
 }

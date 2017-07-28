@@ -1,17 +1,8 @@
 package pages;
 
-/**
- * Created by user on 03.10.2016.
- */
 public enum Category {
     Lighting("lighting"),
-    Fans("fans"),
-    Furniture("furniture"),
-    Accessories("home-accessories-and-gifts"),
-    Room("rooms"),
-    Brands("brands"),
-    Ideas("ideas-and-advice"),
-    Sale("sale-and-clearance");
+    Fans("fans");
 
     Category(String label) {
         this.label = label;
