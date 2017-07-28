@@ -1,8 +1,7 @@
 package pages;
 
 public enum Category {
-    Lighting("lighting"),
-    Fans("fans");
+    Lighting("lighting");
 
     Category(String label) {
         this.label = label;

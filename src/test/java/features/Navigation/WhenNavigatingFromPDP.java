@@ -38,9 +38,6 @@ public class WhenNavigatingFromPDP {
         mark.isOnTheHomePage();
         //When
         productPage.openPageByUrl(urlCategory);
-        //And
-        String selectedAttributeValueInLeftNavMenu = PLP.clickOnFirstAttributeValueForGroupInTheLeftNavMenu("Style");
-
 
     }
 }
