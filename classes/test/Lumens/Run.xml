@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xml>
+    <parameters id="urlProduct">/la-boheme-stool-by-kartell-uu104444.html</parameters>
+    <parameters id="nameProduct">Masters Chair</parameters>
+    <parameters id="nameBrand">Alessi</parameters>
+    <parameters id="keyword">soft</parameters>
+
+    <parameters id="quantityOfProduct">3</parameters>
+    <!--<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">-->
+
+        <!--<xs:element name="stringvalues" type="valuelist"/>-->
+
+        <!--<xs:simpleType name="valuelist">-->
+            <!--<xs:list itemType="xs:string"/>-->
+        <!--</xs:simpleType>-->
+
+    <!--</xs:schema>-->
+    <!--<stringvalues>I love XML Schema</stringvalues>-->
+</xml>

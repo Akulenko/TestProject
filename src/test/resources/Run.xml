@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xml>
+    <parameters id="urlProduct">/la-boheme-stool-by-kartell-uu104444.html</parameters>
+    <parameters id="urlProductWithoutOptions">/le-klint-175a-pendant-by-le-klint-uu255098.html</parameters>
+    <parameters id="urlProductWithValuesOption">/cabrio-kids-chair-by-loll-designs-uu449480.html</parameters>
+    <parameters id="urlCategory">/chandeliers</parameters>
+    <parameters id="nameProduct">Masters Chair</parameters>
+    <parameters id="nameBrand">Alessi</parameters>
+    <parameters id="keyword">soft</parameters>
+    <parameters id="quantityOfProduct">1</parameters>
+    <parameters id="priceOfProduct">$250.00</parameters>
+
+    <parameters id="firstName">SerenityFirst</parameters>
+    <parameters id="lastName">SerenityLast</parameters>
+    <parameters id="password">12345*test</parameters>
+    <parameters id="email">lumensDev@gmail.com</parameters>
+</xml>
